@@ -1,0 +1,163 @@
+[
+    {
+      "id": 1,
+      "title": "America Before Columbus",
+      "author": "Cathe Jumonet",
+      "year_edition": 1993,
+      "edition": "NA",
+      "price": 18
+    },
+    {
+      "id": 2,
+      "title": "Gospel of Judas, The",
+      "author": "Dianna Swate",
+      "year_edition": 2001,
+      "edition": "AS",
+      "price": 16
+    },
+    {
+      "id": 3,
+      "title": "Apple Dumpling Gang, The",
+      "author": "Cyrille Woodroofe",
+      "year_edition": 1993,
+      "edition": "AF",
+      "price": 15
+    },
+    {
+      "id": 4,
+      "title": "The Golden Eye",
+      "author": "Bendicty Josef",
+      "year_edition": 1997,
+      "edition": "AS",
+      "price": 17
+    },
+    {
+      "id": 5,
+      "title": "Spiral",
+      "author": "Benedikta Maker",
+      "year_edition": 1997,
+      "edition": "EU",
+      "price": 17
+    },
+    {
+      "id": 6,
+      "title": "Bewitched (Alter Ego)",
+      "author": "Alysia Spittal",
+      "year_edition": 1997,
+      "edition": "OC",
+      "price": 11
+    },
+    {
+      "id": 7,
+      "title": "Damned United, The",
+      "author": "Alyse Massinger",
+      "year_edition": 1994,
+      "edition": "NA",
+      "price": 12
+    },
+    {
+      "id": 8,
+      "title": "Gay Divorcee, The",
+      "author": "Katrinka Liddy",
+      "year_edition": 2003,
+      "edition": "AS",
+      "price": 19
+    },
+    {
+      "id": 9,
+      "title": "Big Wednesday",
+      "author": "Susannah Cashin",
+      "year_edition": 1994,
+      "edition": "EU",
+      "price": 19
+    },
+    {
+      "id": 10,
+      "title": "Guy X",
+      "author": "Melody Devas",
+      "year_edition": 2003,
+      "edition": "AF",
+      "price": 11
+    },
+    {
+      "id": 11,
+      "title": "Shakespeare's Globe: Henry V",
+      "author": "Sacha Gaffer",
+      "year_edition": 1999,
+      "edition": "SA",
+      "price": 19
+    },
+    {
+      "id": 12,
+      "title": "Samouraï, Le (Godson, The)",
+      "author": "Kristian Davidde",
+      "year_edition": 2008,
+      "edition": "OC",
+      "price": 15
+    },
+    {
+      "id": 13,
+      "title": "Pebble and the Penguin, The",
+      "author": "Colby Cruddas",
+      "year_edition": 1997,
+      "edition": "OC",
+      "price": 19
+    },
+    {
+      "id": 14,
+      "title": "All Dogs Go to Heaven",
+      "author": "Thain Greatland",
+      "year_edition": 2007,
+      "edition": "AS",
+      "price": 14
+    },
+    {
+      "id": 15,
+      "title": "Big White, The",
+      "author": "Gusta Slimmon",
+      "year_edition": 1998,
+      "edition": "AS",
+      "price": 20
+    },
+    {
+      "id": 16,
+      "title": "Slingshot, The (Kådisbellan)",
+      "author": "Cole Mandel",
+      "year_edition": 2010,
+      "edition": "AF",
+      "price": 14
+    },
+    {
+      "id": 17,
+      "title": "Ingmar Bergman Makes a Movie (Ingmar Bergman gör en film)",
+      "author": "Ingelbert Hampton",
+      "year_edition": 2006,
+      "edition": "SA",
+      "price": 19
+    },
+    {
+      "id": 18,
+      "title": "Something Ventured",
+      "author": "Normy Goddard",
+      "year_edition": 2001,
+      "edition": "SA",
+      "price": 11
+    },
+    {
+      "id": 19,
+      "title": "Good Student, The (Mr. Gibb)",
+      "author": "Toddy Lush",
+      "year_edition": 1999,
+      "edition": "AF",
+      "price": 13
+    },
+    {
+      "id": 20,
+      "title": "Dallas",
+      "author": "Pippa Mussalli",
+      "year_edition": 1995,
+      "edition": "EU",
+      "price": 10
+    }
+  ]
+  
